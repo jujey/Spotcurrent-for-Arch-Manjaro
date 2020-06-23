@@ -1,3 +1,5 @@
+# [ORIGINAL](https://github.com/flymia/SpotCurrent)
+
 # SpotCurrent
 This simple bash script allows you to get the current Spotify song playing and put it into OBS.
 
