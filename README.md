@@ -76,6 +76,7 @@ I plan to give this script VLC support, so you can read out every song you're pl
 ### Important notice
 This is just a very basic script. I'm not really fluent in Bash and that's my first "real" script. **It is tested on:**
 
+**NOW ON** * Arch / Manjaro
 * Ubuntu GNOME
 * Kubuntu (KDE)
 * Debian 8 'Jessie' (LXDE)
